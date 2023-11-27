@@ -5,6 +5,6 @@ Catatan 1
 - Ibadah 5 Waktu
 - Ibadah Puasa
 - Tambah Berangkat Haji
-coba-fitur-1
-- Rabu
-- Kamis
+coba-fitur-2
+- Jum'at
+- Sabtu
